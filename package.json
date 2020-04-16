@@ -1,0 +1,14 @@
+{
+  "name": "simple-demo-app",
+  "version": "0.0.0",
+  "description": "Demo Application to complement Medium story on AWS EBS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniruddha Chatterjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
